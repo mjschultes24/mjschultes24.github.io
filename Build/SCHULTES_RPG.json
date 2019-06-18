@@ -1,7 +1,7 @@
 {
 "companyName": "schultesm",
 "productName": "SCHULTES_RPG",
-"productVersion": "1.0",
+"productVersion": "1.1",
 "dataUrl": "SCHULTES_RPG.data.unityweb",
 "wasmCodeUrl": "SCHULTES_RPG.wasm.code.unityweb",
 "wasmFrameworkUrl": "SCHULTES_RPG.wasm.framework.unityweb",
